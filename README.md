@@ -33,7 +33,8 @@ I’m a **Frontend Developer** with a passion for crafting responsive and user-f
 
 | **Project** | **Description** | **Tech Stack** |
 |-------------|-----------------|----------------|
-| [Pradeep Mandal](https://pradeepmondal.com/) | A fully responsive website | HTML, CSS, JavaScript, WordPress |
+| [VidayoPro](https://www.vidayopro.com/) | A fully responsive website | HTML, CSS, JavaScript, WordPress, Elementor |
+| [Pradeep Mandal](https://pradeepmondal.com/) | A fully responsive website | HTML, CSS, JavaScript, WordPress, Elementor |
 | [CNC Nepal](https://cncnepal.com/) | A fully responsive website | HTML, CSS, JavaScript |
 | [Hiup Solutions](https://nepal.olivegroup.io/) | A fully responsive website | HTML, CSS, JavaScript, WordPress, Corban Fields- WordPress Custom Fields Library |
 | [Ad Technology](https://sandbox.adtechnology.myclubireland.com/) | Advertisement Post Technology Management System | HTML5, CSS3, React, React Components, NPM, Git, GitHub, Postman, MongoDB, AWS, JWT (JSON Web Tokens) |
