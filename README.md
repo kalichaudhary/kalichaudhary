@@ -38,7 +38,7 @@ I’m a **Frontend Developer** with a passion for crafting responsive and user-f
 | [CNC Nepal](https://nepal.olivegroup.io/) | A fully responsive website | HTML, CSS, JavaScript, WordPress, Corban Fields- WordPress Custom Fields Library |
 | [Ad Technology](https://sandbox.adtechnology.myclubireland.com/) | Advertisement Post Technology Management System | HTML5, CSS3, React, React Components, NPM, Git, GitHub, Postman, MongoDB, AWS, JWT (JSON Web Tokens) |
 | [NSC](https://www.nsc.org/driveithomeapp) | National Safety Council - Save lives, from the workplace to anyplace | HTML5, CSS3, Custom React Native Components, React Native, NPM, Git, GitHub, Expo |
-| [myConnect]([(https://mc2.myconnect.olivegroup.io/mc2),(https://connected.myconnect.olivegroup.io/connected),(https://connected.myconnect.olivegroup.io/connected),(https://mandate.myconnect.olivegroup.io/mandate)]) | Unlimited access to 100’s of courses, 1000’s of jobs and much more so we are developing tenancy platform with client base | HTML5, CSS3, SASS, Reactstrap, Custom React Components, ReactJS, NodeJS, NPM, Git, GitHub, AWS, Jenkins |
+| [myConnect](https://mc2.myconnect.olivegroup.io/mc2)(https://connected.myconnect.olivegroup.io/connected)(https://connected.myconnect.olivegroup.io/connected)(https://mandate.myconnect.olivegroup.io/mandate) | Unlimited access to 100’s of courses, 1000’s of jobs and much more so we are developing tenancy platform with client base | HTML5, CSS3, SASS, Reactstrap, Custom React Components, ReactJS, NodeJS, NPM, Git, GitHub, AWS, Jenkins |
 
 ---
 
