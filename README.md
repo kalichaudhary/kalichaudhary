@@ -33,9 +33,8 @@ I’m a **Frontend Developer** with a passion for crafting responsive and user-f
 
 | **Project** | **Description** | **Tech Stack** |
 |-------------|-----------------|----------------|
+| [Go Balance](https://www.go-balance.com/) | A fully responsive website | HTML, CSS, JavaScript, WordPress, Carbon Field |
 | [VidayoPro](https://www.vidayopro.com/) | A fully responsive website | HTML, CSS, JavaScript, WordPress, Elementor |
-| [Pradeep Mandal](https://pradeepmondal.com/) | A fully responsive website | HTML, CSS, JavaScript, WordPress, Elementor |
-| [CNC Nepal](https://cncnepal.com/) | A fully responsive website | HTML, CSS, JavaScript |
 | [Hiup Solutions](https://nepal.olivegroup.io/) | A fully responsive website | HTML, CSS, JavaScript, WordPress, Corban Fields- WordPress Custom Fields Library |
 | [Ad Technology](https://sandbox.adtechnology.myclubireland.com/) | Advertisement Post Technology Management System | HTML5, CSS3, React, React Components, NPM, Git, GitHub, Postman, MongoDB, AWS, JWT (JSON Web Tokens) |
 | [NSC](https://www.nsc.org/driveithomeapp) | National Safety Council - Save lives, from the workplace to anyplace | HTML5, CSS3, Custom React Native Components, React Native, NPM, Git, GitHub, Expo |
