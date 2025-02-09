@@ -52,6 +52,8 @@ I’m a **Frontend Developer** with a passion for crafting responsive and user-f
 ![Kali Chaudhary's github stats](https://github-readme-stats.vercel.app/api?username=kalichaudhary&show_icons=true)
 
 <h4> 🍻 Contact Me </h4>
-[![WhatsApp](https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg)](https://api.whatsapp.com/send?phone=%2B9779849152073&text=Hello!)
+<a href="https://api.whatsapp.com/send?phone=%2B9779849152073&text=Hello!">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="16" height="16" alt="WhatsApp" />
+</a>
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kalichaudhary@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kalichaudhary)
