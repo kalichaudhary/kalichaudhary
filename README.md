@@ -28,7 +28,7 @@ I’m **Kali Pd. Chaudhary**, a **Frontend Developer** specialized in **ReactJS,
 
 
 ---
-### 🎓 Educations
+## 🎓 Educations
 
 | **Description**                                | **University/Board**         | **Year**       |
 |------------------------------------------------|------------------------------|----------------|
@@ -37,7 +37,7 @@ I’m **Kali Pd. Chaudhary**, a **Frontend Developer** specialized in **ReactJS,
 | **S.L.C.**: School Leaving Certificate         | SLC Board Nepal              | 1999           |
 
 ---
-### 🎖️ Licenses & Certifications
+## 🎖️ Licenses & Certifications
 
 | **Certificate**             | **Link**                                                                 | **Year** |
 |----------------------------|--------------------------------------------------------------------------|----------|
@@ -47,7 +47,7 @@ I’m **Kali Pd. Chaudhary**, a **Frontend Developer** specialized in **ReactJS,
 | Java (Basic) Certificate   | [Click here](https://www.hackerrank.com/certificates/5ca2578023bb) | 2023     |
 
 ---
-### 📂 Recent Portfolio Projects
+## 📂 Recent Portfolio Projects
 
 | **Project** | **Description** | **Tech Stack** |
 |-------------|-----------------|----------------|
@@ -62,13 +62,13 @@ I’m **Kali Pd. Chaudhary**, a **Frontend Developer** specialized in **ReactJS,
 
 ---
 
-### ✍️ Languages
+## ✍️ Languages
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-C69D00?style=flat&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-2f74c0?style=flat&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-254bdd?style=flat&logo=css3)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalichaudhary&layout=compact)
 
-### ❤️ GitHub Stats
+## ❤️ GitHub Stats
 ![Kali Chaudhary's github stats](https://github-readme-stats.vercel.app/api?username=kalichaudhary&show_icons=true)
 
 <h4> 🍻 Contact Me </h4>
