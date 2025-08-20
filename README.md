@@ -1,12 +1,11 @@
 ### Hi there👋
 
-
-#### I'm Kali Pd. Chaudhary
-<i>Frontend Developer, UI/UX Designer, UX Researcher</i>
-
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200" height="150" >
 
-I’m a **Frontend Developer** with a passion for crafting responsive and user-friendly web applications. I love working with **JavaScript**, **ReactJS**, **VueJS**, **SCSS**, **CSS Components**, and **Tailwind**.
+---
+## 🚀 About Me
+I’m **Kali Pd. Chaudhary**, a **Frontend Developer** specialized in **ReactJS, Next.js, and Tailwind & Bootstrap** with expertise in **UI/UX design** and **SEO optimization**.
+
 
 ---
 
@@ -41,21 +40,21 @@ I’m a **Frontend Developer** with a passion for crafting responsive and user-f
 
 | **Certificate**             | **Link**                                                                 | **Year** |
 |----------------------------|--------------------------------------------------------------------------|----------|
-| React (Basic) Certificate  | [React Certificate](https://www.hackerrank.com/certificates/3c4ca0d03a88) | 2023     |
-| Node (Basic) Certificate   | [Node Certificate](https://www.hackerrank.com/certificates/27dc18ba6f8d) | 2023     |
-| SQL (Advanced) Certificate | [SQL Certificate](https://www.hackerrank.com/certificates/379bc67e07ff) | 2023     |
-| Java (Basic) Certificate   | [Java Certificate](https://www.hackerrank.com/certificates/5ca2578023bb) | 2023     |
+| React (Basic) Certificate  | [Click here](https://www.hackerrank.com/certificates/3c4ca0d03a88) | 2023     |
+| Node (Basic) Certificate   | [Click here](https://www.hackerrank.com/certificates/27dc18ba6f8d) | 2023     |
+| SQL (Advanced) Certificate | [Click here](https://www.hackerrank.com/certificates/379bc67e07ff) | 2023     |
+| Java (Basic) Certificate   | [Click here](https://www.hackerrank.com/certificates/5ca2578023bb) | 2023     |
 
 ---
 ### 📂 Recent Portfolio Projects
 
 | **Project** | **Description** | **Tech Stack** |
 |-------------|-----------------|----------------|
-| [Masta](https://www.masta.com/) | A fully responsive website | Bootstrap, Advaced JavaScript, WordPress, SCF |
-| [Olive for Trainning](https://olivefortraining.ie/) | A fully responsive website | WordPress, Elementor |
-| [Go Balance](https://www.go-balance.com/) | A fully responsive website | HTML, CSS, JavaScript, WordPress, Carbon Field |
-| [VidayoPro](https://www.vidayopro.com/) | A fully responsive website | HTML, CSS, JavaScript, WordPress, Elementor |
-| [O'Lab](https://nepal.olivegroup.io/) | A fully responsive website | HTML, CSS, JavaScript, WordPress, Corban Fields- WordPress Custom Fields Library |
+| [Masta](https://www.masta.com/) | A fully responsive WordPress-based website with optimized UI/UX design and SEO-friendly architecture. | Bootstrap, Advaced JavaScript, WordPress, SCF |
+| [Olive for Trainning](https://olivefortraining.ie/) | A fully responsive WordPress-based website with optimized UI/UX design and SEO-friendly architecture. | WordPress, Elementor |
+| [Go Balance](https://www.go-balance.com/) | A fully responsive WordPress-based website with optimized UI/UX design and SEO-friendly architecture. | HTML, CSS, JavaScript, WordPress, Carbon Field |
+| [VidayoPro](https://www.vidayopro.com/) | A fully responsive WordPress-based website with optimized UI/UX design and SEO-friendly architecture. | HTML, CSS, JavaScript, WordPress, Elementor |
+| [O'Lab](https://nepal.olivegroup.io/) | A fully responsive WordPress-based website with optimized UI/UX design and SEO-friendly architecture. | HTML, CSS, JavaScript, WordPress, Corban Fields- WordPress Custom Fields Library |
 | [Ad Technology](https://sandbox.adtechnology.myclubireland.com/) | Advertisement Post Technology Management System | HTML5, CSS3, React, React Components, NPM, Git, GitHub, Postman, MongoDB, AWS, JWT (JSON Web Tokens) |
 | [NSC](https://www.nsc.org/driveithomeapp) | National Safety Council - Save lives, from the workplace to anyplace | HTML5, CSS3, Custom React Native Components, React Native, NPM, Git, GitHub, Expo |
 | [myConnect Platform](https://mc2.myconnect.olivegroup.io/mc2) [Connected Platform](https://connected.myconnect.olivegroup.io/connected) [Mandate Platform](https://mandate.myconnect.olivegroup.io/mandate) | Unlimited access to 100’s of courses, 1000’s of jobs and much more so we are developing tenancy platform with client base | HTML5, CSS3, SASS, Reactstrap, Custom React Components, ReactJS, NodeJS, NPM, Git, GitHub, AWS, Jenkins |
