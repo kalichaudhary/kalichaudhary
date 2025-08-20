@@ -47,7 +47,7 @@ I’m a **Frontend Developer** with a passion for crafting responsive and user-f
 | Java (Basic) Certificate   | [Java Certificate](https://www.hackerrank.com/certificates/5ca2578023bb) | 2023     |
 
 ---
-### 📂 Portfolio Projects
+### 📂 Recent Portfolio Projects
 
 | **Project** | **Description** | **Tech Stack** |
 |-------------|-----------------|----------------|
