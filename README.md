@@ -32,16 +32,16 @@ I’m a **Frontend Developer** with a passion for crafting responsive and user-f
 | **Description** | **University/Board** | **Year** |
 |-------------|-----------------|----------------|
 | **BCA**: Bachelor of Computer Application | Purbanchal Vishwavidalaya | 2002 - 2005 |
-| **I. Sc.**: Intermediate of Science|Tribhuwan University | 2000 - 2001
-|**S.L.C.**: School leaving Certificate Board Nepal | SLC Board Nepal | 1999
+| **I. Sc.**: Intermediate of Science|Tribhuwan University | 2000 - 2001 |
+|**S.L.C.**: School leaving Certificate Board Nepal | SLC Board Nepal | 1999 |
 ---
 ### 🎖️Licenses & Certifications
 | **Certificate** | **Link** | **Year** |
 |-------------|-----------------|----------------|
-| React (Basic) Certificate] | https://www.hackerrank.com/certificates/3c4ca0d03a88  | 2023
-| Node (Basic) Certificate | https://www.hackerrank.com/certificates/27dc18ba6f8d | 2023
-| SQL (Advanced) Certificate | https://www.hackerrank.com/certificates/379bc67e07ff | 2023
-| Java (Basic) Certificate | https://www.hackerrank.com/certificates/5ca2578023bb | 2023
+| React (Basic) Certificate] | https://www.hackerrank.com/certificates/3c4ca0d03a88  | 2023  |
+| Node (Basic) Certificate | https://www.hackerrank.com/certificates/27dc18ba6f8d | 2023 |
+| SQL (Advanced) Certificate | https://www.hackerrank.com/certificates/379bc67e07ff | 2023 |
+| Java (Basic) Certificate | https://www.hackerrank.com/certificates/5ca2578023bb | 2023 |
 
 ---
 ### 📂 Portfolio Projects
