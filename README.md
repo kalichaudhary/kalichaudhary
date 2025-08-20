@@ -33,7 +33,7 @@ I’m a **Frontend Developer** with a passion for crafting responsive and user-f
 |-------------|-----------------|----------------|
 | **BCA**: Bachelor of Computer Application | Purbanchal Vishwavidalaya | 2002 - 2005 |
 | **I. Sc.**: Intermediate of Science|Tribhuwan University | 2000 - 2001 |
-|**S.L.C.**: School leaving Certificate Board Nepal | SLC Board Nepal | 1999 |
+| **S.L.C.**: School leaving Certificate Board Nepal | SLC Board Nepal | 1999 |
 ---
 ### 🎖️Licenses & Certifications
 | **Certificate** | **Link** | **Year** |
