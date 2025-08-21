@@ -66,7 +66,7 @@ I’m **Kali Pd. Chaudhary**, a **Frontend Developer** specialized in **ReactJS,
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)  ![GitHub Stats](https://streak-stats.demolab.com?user=kalichaudhary&theme=default&hide_border=true)   [![Kali's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kalichaudhary&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/kalichaudhary/github-readme-activity-graph)
 
 ## ❤️ GitHub Stats
-![Kali Chaudhary's github stats](https://github-readme-stats.vercel.app/api?username=kalichaudhary&show_icons=true)
+![Kali's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalichaudhary\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ## 📞 Contact Me
 <a href="https://api.whatsapp.com/send?phone=%2B9779849152073&text=Hello!"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="24" height="24" alt="WhatsApp" /></a>
